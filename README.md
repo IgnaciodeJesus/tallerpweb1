@@ -14,6 +14,3 @@ git branch ignacio
 
 git checkout nombredelarama
 git checkout ignacio
-
-
-# tallerpweb1
